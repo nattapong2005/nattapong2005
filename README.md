@@ -6,8 +6,8 @@ Super Full Stack Developer
 
 * 🌍  I'm based in NakhonPathom
 * ✉️  You can contact me at [azzzx30089@gmail.com](mailto:azzzx30089@gmail.com)
-* 🧠  I'm currently learning HTML CSS PHP SQL JavaScript Java Python ReactJS TailwindCSS Bootstrap C++
-* 🤝  I'm open to collaborating on ReactJS + TailwindCSS
+* 🧠  I know HTML CSS PHP SQL JavaScript Java Python C++ ReactJS TailwindCSS Bootstrap 
+* 🤝  I'm currently learning ReactJS TailwindCSS
 
 ### Skills
 
